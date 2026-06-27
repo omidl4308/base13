@@ -172,11 +172,4 @@
   },
 
   "requirements": [
-    "Preserve exact facial identity.",
-    "Never beautify or modify facial proportions.",
-    "Use objective anatomical analysis only.",
-    "Generate measurements with maximum precision.",
-    "Maintain identical face across all future images and videos.",
-    "Prioritize facial geometry over artistic interpretation."
-  ]
 }
